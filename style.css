@@ -85,3 +85,21 @@ p {
 a:visited {
     color: aqua;
 }
+
+.button5 {
+    background-color: rgb(38, 161, 25);
+    width: 150px;
+    border: 3px solid rgb(38, 161, 25);
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+
+.buttton4 {
+    background-color: rgb(43, 17, 42);
+    width: 150px;
+    border: 3px solid rgb(43, 17, 42);
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
